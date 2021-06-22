@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amandeep
-- 👀 I’m interested in Pragramming and coding or creating Softwares 
+- 👀 I’m interested in Programming and coding or creating Softwares 
 - 🌱 I’m currently pursuing Bachelor's Degree....
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫You can reach me at # https://www.linkedin.com/in/amandeep-sinha-1257251a2 
